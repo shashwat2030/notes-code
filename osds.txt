@@ -1,0 +1,24 @@
+disk scheduliding algorithm goal to minmize the seek time
+hardware structure of hard disk now mainly the hardisk consist 
+of multiple platters having different tracks which contains 
+different sectors
+making the hirearchy 
+platter cd shape disk now basically consist of two surface 
+categorisewhich are  upper side and lower side 
+|
+track now these you can say tissue in the body track are the basic 
+unit of  upper as well as lower side containing the basic sector 
+storage  which can be the blocks of sector big container which
+contains group of  sectors
+|
+sector -data store in these sectors basic basic unit of track or the 
+basic unit of hardisk where data is ultimately reside
+
+to achieve the request of data 
+scan  algorithm 
+elevator algorithm
+moving in one direction towards the larger value  just larger 
+zvalue of the head continue in the following the algorithm 
+handling all the request in increasing direction of the request 
+and the fact is that we have move to the highest point moving 
+in the next word.  
